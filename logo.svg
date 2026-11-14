@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" role="img" aria-label="Threadix Solutions">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600&amp;display=swap');
+    .w { font-family: 'JetBrains Mono', monospace; font-weight: 600; font-size: 56px; fill: #14213D; letter-spacing: -0.5px; }
+    .s { font-family: 'JetBrains Mono', monospace; font-weight: 500; font-size: 15px; fill: #5B6577; letter-spacing: 5px; }
+  </style>
+  <g stroke-width="12" stroke-linecap="round">
+    <line x1="22" y1="98" x2="46" y2="22" stroke="#14213D"/>
+    <line x1="50" y1="98" x2="74" y2="22" stroke="#14213D"/>
+    <line x1="78" y1="98" x2="102" y2="22" stroke="#3A6EA5"/>
+  </g>
+  <text class="w" x="132" y="70">Threadix</text>
+  <text class="s" x="134" y="98">SOLUTIONS</text>
+</svg>
