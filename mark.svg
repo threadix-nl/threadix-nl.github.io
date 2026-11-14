@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Threadix">
+  <g stroke-width="12" stroke-linecap="round">
+    <line x1="22" y1="98" x2="46" y2="22" stroke="#14213D"/>
+    <line x1="50" y1="98" x2="74" y2="22" stroke="#14213D"/>
+    <line x1="78" y1="98" x2="102" y2="22" stroke="#3A6EA5"/>
+  </g>
+</svg>
